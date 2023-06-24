@@ -1,0 +1,11 @@
+{
+    "name":"Cricket chrome extension",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "description":"This is Live cricket feed extension.",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Cricket chrome extension"
+    },
+    "author":"Priyansh"
+}
